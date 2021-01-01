@@ -70,7 +70,7 @@ class SingleLinkedList {
 	public void list() {
 
 		if (head == null) {
-			System.out.println("����Ϊ��");
+			System.out.println("链表为空");
 			return;
 		}
 		
